@@ -1,9 +1,5 @@
 from unittest import TestCase
-from index import add
-from index import subtract
-from index import multiply
-from index import divide
-
+from index import add, subtract, multiply, divide
 
 class IndexTest(TestCase):
 
